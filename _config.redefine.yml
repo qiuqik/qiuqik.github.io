@@ -117,7 +117,7 @@ home_banner:
   # Whether to enable home banner
   enable: true
   # style of home banner
-  style: fixed # static or fixed
+  style: static # static or fixed
   # Home banner image
   image: 
     light: /images/wallhaven-wqery6-light.webp # light mode
