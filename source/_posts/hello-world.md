@@ -1,6 +1,8 @@
----
-title: Hello World
----
+第一次尝试创建个人博客，用于记录日常学习心得以及一些个人认为值得记录的事情和拍的照片。
+
+
+### title: Hello World
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
