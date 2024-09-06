@@ -15,7 +15,7 @@ info:
   # Author name
   author: QIU
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://qiuqik.github.io
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -23,11 +23,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/icon.png
   # Site logo
-  logo: 
+  logo: /images/icon.png
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: /images/avater.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
