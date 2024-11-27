@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Yiqiu # the main title
 
-tagline:  Wow~ # it will display as the subtitle
+tagline:  宣父犹能畏后生，丈夫未可轻年少。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
